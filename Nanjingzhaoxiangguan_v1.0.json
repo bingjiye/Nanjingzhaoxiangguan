@@ -1,0 +1,14 @@
+{
+  "name": "南京照相馆",
+  "img": "Nanjingzhaoxiangguan.jpg",
+  "play_list":[
+  {"m3u8":"720P/index.m3u8","subtitles": "Nanjingzhaoxiangguan_subtitles.json","quality":"720P","quality_remarks":"（时长2:16:55)"}
+  ],
+  "introduction": "影片故事取材于南京大屠杀期间日军真实罪证影像。一群生活在南京的百姓躲在吉祥照相馆中避难，为了尽可能的多活一日，他们被迫帮助日军摄影师冲洗底片，却意外冲印出了能证明日军屠城的罪证照片。他们原本只想在大屠杀中保命活下去，面对日军在南京城内的暴行，他们决定让这些底片留存下去。",
+  "type": "剧情/历史/战争",
+  "director": "申奥",
+  "actor": "刘昊然/王传君/高叶/王骁/周游/杨恩又",
+  "release": "2025-7-25",
+  "rating": 8.7,
+  "Award": ""
+}
